@@ -1,1 +1,4 @@
 This is the master file
+and these are the edits of the branch file. 
+More lines 1
+More lines 2

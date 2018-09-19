@@ -2,3 +2,5 @@ This is the master file
 and these are the edits of the branch file. 
 More lines 1
 More lines 2
+What if I want to continue on with the master branch
+while somebody adds edits to Branch 2? Let's see what happens

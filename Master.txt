@@ -6,3 +6,5 @@ These are some additional edits of the second branch off of branch 1
 What if I want to continue on with the master branch
 while somebody adds edits to Branch 2? Let's see what happens
 
+This is another edit added directly from a file on my computer as opposed to on github.
+
